@@ -9,13 +9,16 @@
 </a>
 
 <br/><br/>
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://github.com/alexandre-ferreira-dev">
+    <img src="https://img.shields.io/badge/GitHub-alexandre--ferreira--dev-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexandre-ferreira-603778118/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alexandre%20Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-[![LinkedIn]([https://www.linkedin.com/in/alexandre-ferreira-603778118/)]([https://linkedin.com/in/alexandre-ferreira-dev](https://www.linkedin.com/in/alexandre-ferreira-603778118/))](https://www.linkedin.com/in/alexandre-ferreira-603778118/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexandre-ferreira-dev)
-
-</div>
-
----
 
 ## 👨‍💻 Sobre mim
 
@@ -85,6 +88,9 @@
 <p align="center">
   <a href="https://github.com/alexandre-ferreira-dev">
     <img src="https://img.shields.io/badge/GitHub-alexandre--ferreira--dev-181717?style=for-the-badge&logo=github" />
+  </a>
+    <a href="https://www.linkedin.com/in/alexandre-ferreira-603778118/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alexandre%20Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
