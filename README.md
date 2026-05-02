@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://www.linkedin.com/in/alexandre-ferreira-603778118/)]([https://linkedin.com/in/alexandre-ferreira-dev](https://www.linkedin.com/in/alexandre-ferreira-603778118/))
+[![LinkedIn]([https://www.linkedin.com/in/alexandre-ferreira-603778118/)]([https://linkedin.com/in/alexandre-ferreira-dev](https://www.linkedin.com/in/alexandre-ferreira-603778118/))](https://www.linkedin.com/in/alexandre-ferreira-603778118/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexandre-ferreira-dev)
 
 </div>
