@@ -59,27 +59,13 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center"> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre-ferreira-dev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Troféus
-
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=alexandre-ferreira-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
-</div>
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexandre-ferreira-dev&theme=blueberry">
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexandre-ferreira-dev&theme=blueberry&utcOffset=8">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandre-ferreira-dev&theme=blueberry"/>
+ <img align="center" alt="Top Language" src="https://streak-stats.demolab.com?user=alexandre-ferreira-dev&theme=neon-dark&hide_border=true&border_radius=5&locale=pt" alt="GitHub Streak" "/>
 
----
----
-## 📈 Atividade
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alexandre-ferreira-dev&bg_color=0d1117&color=4DA8FF&line=1a6fd4&point=ffffff&area=true&hide_border=true&radius=8" />
+  
 </div>
 
 ---
@@ -95,7 +81,11 @@
 </p>
 
 ---
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandre-ferreira-dev/alexandre-ferreira-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandre-ferreira-dev/alexandre-ferreira-dev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexandre-ferreira-dev/alexandre-ferreira-dev/output/github-contribution-grid-snake.svg">
+</picture>
 <div align="center">
 
 **💙 Obrigado pela visita!**
@@ -106,8 +96,3 @@
 
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandre-ferreira-dev/alexandre-ferreira-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandre-ferreira-dev/alexandre-ferreira-dev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexandre-ferreira-dev/alexandre-ferreira-dev/output/github-contribution-grid-snake.svg">
-</picture>
